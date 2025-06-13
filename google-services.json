@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "920784292655",
+    "project_id": "dawa-7ae59",
+    "storage_bucket": "dawa-7ae59.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:920784292655:android:df6af90e4d91375321efda",
+        "android_client_info": {
+          "package_name": "Com.runnergame"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAkhnzSatavvmDCOw9RabT12VewpETVaiU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
